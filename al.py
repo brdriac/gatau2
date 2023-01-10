@@ -283,10 +283,10 @@ def start(nomor,x): # Def Untuk Start Tools
         jam(nomor)
         
 def main():
-    autoketik(f"Selamat datang di {merah}ALBot")
-    print(f"""{kuning}Author      : {hijau}ALgi FH
-{kuning}Website      : {merah}www.algidigital.com
-{kuning}Facebook   : {biru}facebook.com/nueesec""")
+    autoketik(f"Selamat datang di {merah}Tembak Whatsapp Dollar")
+    print(f"""{kuning}Author      : {hijau}Pak Walikota
+{kuning}Grup      : {merah}Punya Dollar Nih Bos
+{kuning}TTD   : {biru}Orang Baik""")
     # Contoh : 089508226367
     print(nomor := input(f"{hijau}Masukkan Nomor Target: {putih}")) # Walrus Operator untuk inputan Nomor Target
     start(nomor,0) # Memulai Tools
